@@ -1,0 +1,47 @@
+body{
+    color:pink
+}
+p{
+    color:black;
+}
+div{ background-color:pink;
+    border:5px solid yellow;
+    padding:25px;
+    margin:10px;
+}
+h1{
+    color:brown;
+    text-align: center
+}
+p{
+    text-align: center;
+}
+h2{
+    color:brown;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h3{
+    color:brown;
+    text-align: center
+}
+p{
+    text-align: center;
+}
+.conteiner{
+    display:flexbox;
+}
+.content{
+    background-color: white;
+    border:2px;color:pink;
+    padding:20px;
+    margin:10px;
+}
+footer{
+    text-align: center ;
+    padding:3px;
+    background-color:yellow;
+
+}
